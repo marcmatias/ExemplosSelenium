@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.ChromeDriverManager;
 
-public class TesteGoogle {
+public class TesteDuckDuckGo {
 	
 	@Test
 	public void teste() {
